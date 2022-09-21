@@ -1,0 +1,22 @@
+body {
+    background: url(.//pexels-philippe-donn-1114690.jpg);
+    background-color: linen;
+    background-position: center center, left top;
+    background-attachment: fixed;
+    background-repeat: no-repeat, repeat-y;
+    background-size: cover;
+}
+
+
+p {
+    color: rgb(169, 159, 223);
+}
+
+h1 {
+    background-image:
+        url('./general-ylUZZ-2022.02.19.06.52.18-gradient_bg_vertical.png');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(94, 69, 238);
+}
